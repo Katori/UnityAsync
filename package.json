@@ -1,0 +1,15 @@
+{
+    "name": "org.authenticexperiences.unityasync",
+    "version": "0.1.2",
+    "displayName": "UnityAsync",
+    "description": "UnityAsync is a coroutine framework for Unity built around the async API. This is not only a more efficient and effective replacement of Unity's IEnumerator coroutines, but also seamlessly integrates Unity with .NET 4+ asynchronous APIs.",
+    "unity": "2018.3",
+    "keywords": [
+        "async"
+    ],
+    "author": {
+        "name": "Zac North & Ben Evans",
+        "email": "znorth@gmail.com",
+        "url": "https://authenticexperiences.org"
+    }
+}  
